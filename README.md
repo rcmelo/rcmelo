@@ -5,6 +5,8 @@
 
 ![Renan Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=rcmelo&show_icons=true&theme=dracula)
 
+[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcmelo)](https://github.com/rcmelo/github-readme-stats)
+
 ## Tecnologias usadas no meu dia-dia
 
 <div style="display: inline_block">
