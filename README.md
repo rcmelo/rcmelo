@@ -1,11 +1,18 @@
 ### Olá! Eu sou o Renan Melo 🤙🏻
+## 
+👨🏻‍💻 hoje trabalho com desenvolvimento de Software, voltado ao backend. <br>
+💻 Vasta experiência com sistemas ERP Totvs <br>
+📈 Estudando Analise de dados. <br>
 
 [![Blog](https://img.shields.io/website?label=RmWeb.com.br&style=for-the-badge&url=https://rmweb.com.br/)](https://rmweb.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram/renancmelo)
 
 ![Renan Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=rcmelo&show_icons=true&theme=dracula)
 
+##
+
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcmelo)](https://github.com/rcmelo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcmelo&hide_progress=true)
 
 ## Tecnologias usadas no meu dia-dia
 
