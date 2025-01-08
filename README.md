@@ -10,19 +10,20 @@
 ## Tecnologias usadas no meu dia-dia
 
 <div style="display: inline_block">
-   <img align="cente" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   <img align="cente" alt="CSS3" src="https://img.shields.io/badge/CSS3-157286?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img align="cente" alt="javascript" src="https://img.shields.io/badge/JavaScript-323340?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-   <img align="cente" alt="net" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-   <img align="cente" alt="net" src="https://img.shields.io/badge/.Net-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-   <img align="cente" alt="php" src="https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white"/>
-   <img align="cente" alt="mysql" src="https://img.shields.io/badge/MySql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=#4479A1"/>
-   <img align="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E"/>
-   <img align="cente" alt="oracle" src="https://img.shields.io/badge/pl/sql-F40D12?style=for-the-badge&logo=adminer&logoColor=white"/>
-   
-   
-</div><br>
+   <img align="center" alt="HTML5" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="CSS3" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Js" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="PHP" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="MYSQL" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt=".NET" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt=".NET" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+   <img align="center" alt="SQLSERVER" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+   <img align="center" alt="PYTHON" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="ORACLE" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+   <img align="center" alt="GITHUB" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
 
+##
 
 Apaixonado por Tecnologia!<br>
 Cada dia um apredizado novo, cada dia uma experiência diferente.<br>
