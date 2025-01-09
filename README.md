@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Renan Melo 🤙🏻
 ## 
-👨🏻‍💻 hoje trabalho com desenvolvimento de Software, voltado ao backend. <br>
-💻 Vasta experiência com sistemas ERP Totvs <br>
+👨🏻‍💻 Atualmente trabalho com desenvolvimento de Software, voltado ao backend. <br>
+💻 Vasta experiência com sistemas ERP Totvs (RM e PROTHEUS) <br>
 📈 Estudando Analise de dados. <br>
 
 [![Blog](https://img.shields.io/website?label=RmWeb.com.br&style=for-the-badge&url=https://rmweb.com.br/)](https://rmweb.com.br)
